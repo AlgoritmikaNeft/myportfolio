@@ -31,3 +31,47 @@ footer {
     margin: 1px;
     border-radius: 5px;
 }
+
+
+
+header a {
+    background-image: linear-gradient(rgb(132, 0, 255), rgb(219, 197, 255));
+    border-radius: 3px;
+}
+
+header a:hover {
+    background-image: linear-gradient(rgb(219, 197, 255), rgb(132, 0, 255));
+    transition: cubic-bezier(1.0s);
+    box-shadow: 3px 3px 9px 0 rgb(183, 129, 255);
+}
+
+
+
+header a {
+    background-image: linear-gradient(rgb(132, 0, 255), rgb(219, 197, 255));
+    border-radius: 3px;
+}
+
+header a:hover {
+    background-image: linear-gradient(rgb(219, 197, 255), rgb(132, 0, 255));
+    transition: cubic-bezier(1.0s);
+    box-shadow: 3px 3px 9px 0 rgb(183, 129, 255);
+}
+
+.link-text {
+    background-image: linear-gradient(rgb(132, 0, 255), rgb(219, 197, 255));
+    border-radius: 3px;
+}
+
+.link-text:hover {
+    background-image: linear-gradient(rgb(219, 197, 255), rgb(132, 0, 255));
+    transition: cubic-bezier(1.0s);
+    box-shadow: 3px 3px 9px 0 rgb(183, 129, 255);
+}
+
+footer {
+    border: 8px solid rgb(132, 0, 255);
+    padding: 25px;
+    margin: 1px;
+    border-radius: 5px;
+}
