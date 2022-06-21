@@ -1,0 +1,33 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header a {
+    background-image: linear-gradient(rgb(132, 0, 255), rgb(219, 197, 255));
+    border-radius: 5px;
+}
+
+header a:hover {
+    background-image: linear-gradient(rgb(219, 197, 255), rgb(132, 0, 255));
+}
+
+nav a {
+    background-image: linear-gradient(rgb(132, 0, 255), rgb(219, 197, 255));
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background-image: linear-gradient(rgb(219, 197, 255), rgb(132, 0, 255));
+}
+
+main img {
+    border: 8px solid rgb(132, 0, 255);
+    border-radius: 5px;
+}
+
+footer {
+    border: 8px solid rgb(132, 0, 255);
+    padding: 25px;
+    margin: 1px;
+    border-radius: 5px;
+}
